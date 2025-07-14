@@ -98,6 +98,10 @@ export default {
 				'accordion-down': 'accordion-down 0.2s ease-out',
 				'accordion-up': 'accordion-up 0.2s ease-out',
 				'slideIn': 'slideIn 1s ease-out forwards'
+			},
+			boxShadow: {
+				'elegant': '0 10px 30px -10px hsl(214 88% 52% / 0.3)',
+				'glow': '0 0 40px hsl(214 100% 65% / 0.4)',
 			}
 		}
 	},
