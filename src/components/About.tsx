@@ -21,9 +21,9 @@ const About = () => {
             
             <p className="text-lg text-muted-foreground leading-relaxed">
               During my 6-week internship at <span className="text-primary font-semibold">Mirai School of Technology</span>, 
-              I gained hands-on experience in real-world development projects. I specialize in 
-              building clean, responsive frontend UIs and powerful Python applications that solve 
-              complex problems.
+              I gained hands-on experience in AI, ML, and prompt engineering. Built real-world projects using 
+              cutting-edge AI tools including personal portfolio development, music generation, and voice cloning 
+              applications. Worked with modern AI frameworks and learned to leverage AI tools for creative and practical solutions.
             </p>
             
             <p className="text-lg text-muted-foreground leading-relaxed">
