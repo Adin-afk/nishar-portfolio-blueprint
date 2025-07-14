@@ -14,11 +14,11 @@ const Experience = () => {
     },
     {
       type: 'experience',
-      title: 'Software Development Intern',
+      title: 'AI/ML Development Intern',
       organization: 'Mirai School of Technology',
       period: '6 weeks',
       location: 'Technology Hub',
-      description: 'Gained hands-on experience in full-stack development, worked on real-world projects, and collaborated with experienced developers to build scalable applications.',
+      description: 'Gained hands-on experience in AI, ML, and prompt engineering. Built real-world projects using cutting-edge AI tools including personal portfolio development, music generation, and voice cloning applications. Worked with modern AI frameworks and learned to leverage AI tools for creative and practical solutions.',
       current: false
     }
   ];
